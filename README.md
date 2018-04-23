@@ -4,4 +4,5 @@ post new content about real estate.
 register new user.
 forgot password.
 css files can be edit easy ly
-js include  jquery, file upload. and something like edit, delete images
+js include  jquery, file upload. and something like edit, delete images.
+user manager, posts manager for completely easy. sometime we must against spam problem, how to deal with. yes that google captcha, it also be here.
